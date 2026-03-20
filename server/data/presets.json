@@ -1,0 +1,56 @@
+[
+  {
+    "id": "minimal",
+    "name": "Minimal",
+    "icon": "○",
+    "desc": "Clean, white space, subtle",
+    "primaryColor": "#f5f5f5",
+    "accentColor": "#111111",
+    "fontPreset": "dm-serif"
+  },
+  {
+    "id": "bold",
+    "name": "Bold",
+    "icon": "◼",
+    "desc": "High contrast, strong type",
+    "primaryColor": "#0f0f0f",
+    "accentColor": "#ff3b3b",
+    "fontPreset": "bebas"
+  },
+  {
+    "id": "futuristic",
+    "name": "Futuristic",
+    "icon": "◈",
+    "desc": "Tech, glows, sharp lines",
+    "primaryColor": "#060d1f",
+    "accentColor": "#00ffe7",
+    "fontPreset": "orbitron"
+  },
+  {
+    "id": "playful",
+    "name": "Playful",
+    "icon": "✦",
+    "desc": "Bright, bouncy, fun",
+    "primaryColor": "#fff7ed",
+    "accentColor": "#f97316",
+    "fontPreset": "righteous"
+  },
+  {
+    "id": "corporate",
+    "name": "Corporate",
+    "icon": "▣",
+    "desc": "Professional, trustworthy",
+    "primaryColor": "#0f2644",
+    "accentColor": "#2563eb",
+    "fontPreset": "playfair"
+  },
+  {
+    "id": "luxury",
+    "name": "Luxury",
+    "icon": "◇",
+    "desc": "Elegant, gold accents, refined",
+    "primaryColor": "#0d0d0d",
+    "accentColor": "#c9a84c",
+    "fontPreset": "cormorant"
+  }
+]
